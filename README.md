@@ -1,5 +1,19 @@
 # 👨‍💻 Nicaise Ibrahim OUEDRAOGO
 
+## 🌍 Nicaise Ibrahim OUEDRAOGO — Developer & Network Engineer
+**Web Developer · Cisco Network Technician · Independent Project Builder**  
+📍 Ouagadougou, Burkina Faso
+
+### Current Projects
+- 🔗 African Social Media Platform — A monetization platform 
+  for African content creators (in development)
+- 🎮 African Football Mobile Game — Mobile game targeting 
+  the African market (in development)
+
+### Professional Projects
+Real client websites built and deployed in Burkina Faso.
+See full details below ↓
+
 > **Développeur Web · Technicien Réseaux Cisco · Monteur Vidéo**  
 > 📍 Ouagadougou, Burkina Faso 🇧🇫
 
